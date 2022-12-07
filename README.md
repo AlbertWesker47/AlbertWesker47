@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlbertWesker47, my real name is Soufiane EL ARBOUCHI, I am a brand new web developer.
+- 👋 Hi, I’m @AlbertWesker47, my real name is Soufiane EL ARBOUCHI, I am a full stack developer.
 - 👀 I’m interested in code improvements, new languages and frameworks.
 - 🌱 I’m currently learning PHP and C#
 - 💞️ I’m looking to collaborate on web development projects or any interesting projects.
